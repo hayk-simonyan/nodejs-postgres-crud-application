@@ -1,0 +1,4 @@
+{
+  "dbURI": "postgres://postgres:password@localhost:5432/cars",
+  "jwtSecret": "secrethash"
+}
