@@ -1,5 +1,4 @@
-# varmtech-task
-CRUD application using Express, React, PostgreSQL
+# CRUD application using Express, React, PostgreSQL
 
 Steps to run this application in your local machine
 
